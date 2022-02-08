@@ -6,3 +6,9 @@ en en las instrucciones del taller. Adicionalmente se crearon clases pensadas po
 como lo son Trip, Car y Smartphone.
 
 Finalmente se documentaron las clases para que quedara claridad en sus metodos y atributos.
+
+En el repositorio remoto (GitHub), el taller se encuentra en la rama master, tuve un problema con mi Git 
+y se configuro en esa rama remota.
+
+Muchas gracias 
+
